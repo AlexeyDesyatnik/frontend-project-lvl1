@@ -7,9 +7,11 @@ const greetUser = () => {
   return name;
 };
 
-const gameFinale = (name, gameResult) => {
-  if (gameResult) console.log(`Congratulations, ${name}!`);
+const runGame = (game) => {
+  const name = greetUser();
+  const result = game();
+  if (result) console.log(`Congratulations, ${name}!`);
   else console.log(`Let's try again, ${name}!`);
 };
 
-export { greetUser, gameFinale };
+export { greetUser, runGame };
