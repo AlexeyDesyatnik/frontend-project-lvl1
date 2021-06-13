@@ -27,4 +27,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run ESLint
-        run: npm install && make lint
+        run: |
+          make install
+          make lint
