@@ -1,4 +1,4 @@
-import randInt from '../randInt.js';
+import { randInt } from '../utils.js';
 
 const taskDescription = 'What number is missing in the progression?';
 
