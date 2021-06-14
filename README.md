@@ -10,3 +10,7 @@
 ### Brain-Even
 
 [![asciicast](https://asciinema.org/a/eTTasfpBC0yFspoaMxhTwTki2.svg)](https://asciinema.org/a/eTTasfpBC0yFspoaMxhTwTki2)
+
+### Brain-Calc
+
+[![asciicast](https://asciinema.org/a/nD0tve5nSgLNoWStof9yLpClH.svg)](https://asciinema.org/a/nD0tve5nSgLNoWStof9yLpClH)
