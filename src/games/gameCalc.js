@@ -1,4 +1,4 @@
-import randInt from './randInt.js';
+import randInt from '../randInt.js';
 
 const taskDescription = 'What is the result of the expression?';
 

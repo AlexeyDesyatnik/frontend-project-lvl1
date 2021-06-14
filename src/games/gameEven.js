@@ -1,4 +1,4 @@
-import randInt from './randInt.js';
+import randInt from '../randInt.js';
 
 const taskDescription = 'Answer "yes" if the number is even, otherwise answer "no".';
 
