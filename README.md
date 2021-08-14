@@ -6,6 +6,43 @@
 
 [![CI](https://github.com/alexdesyatnik/frontend-project-lvl1/actions/workflows/main.yml/badge.svg)](https://github.com/alexdesyatnik/frontend-project-lvl1/actions/workflows/main.yml)
 
+## Installation
+```bash
+# clone the repository
+git clone https://github.com/alexdesyatnik/frontend-project-lvl1.git
+
+# go to repository directory
+cd frontend-project-lvl1
+
+# install dependencies
+make install
+
+# install the package
+make link
+```
+## Usage
+
+```bash
+# Only greets user, no game logic
+brain-games
+
+# Asks if the number is even or not
+brain-even
+
+# Asks to do some basic math
+brain-calc
+
+# Asks to find greatest common divisor of two numbers
+brain-gcd
+
+# Asks to guess the missing number in a progression
+brain-progression
+
+# Asks if the number is a prime or not
+brain-prime
+```
+
+## Examples
 
 ### Brain-Even
 
